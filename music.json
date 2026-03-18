@@ -4,7 +4,8 @@
     "title": "声声啊韵",
     "artist": "豆包AI",
     "duration": "0:45",
-    "url": "/music/doubao_song1.mp4",
+    "filename": "doubao_song1.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
     "plays": 1256
   }
 ]

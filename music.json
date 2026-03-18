@@ -7,5 +7,95 @@
     "filename": "doubao_song1.mp4",
     "cover": "https://img.icons8.com/fluency/96/music.png",
     "plays": 1256
+  },
+  {
+    "id": 2,
+    "title": "AI驿站之歌",
+    "artist": "豆包AI",
+    "duration": "1:00",
+    "filename": "doubao/01_ai_yizhan_zhige.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 3,
+    "title": "OpenClaw 服务",
+    "artist": "豆包AI",
+    "duration": "1:00",
+    "filename": "doubao/02_openclaw_fuwu.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 4,
+    "title": "OpenClaw 歌",
+    "artist": "豆包AI",
+    "duration": "1:00",
+    "filename": "doubao/03_openclaw_ge.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 5,
+    "title": "极地奇遇",
+    "artist": "豆包AI",
+    "duration": "0:30",
+    "filename": "doubao/05_jidi_qiyu.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 6,
+    "title": "熊洛北冰洋",
+    "artist": "豆包AI",
+    "duration": "0:30",
+    "filename": "doubao/06_xiongluo_beibingyang.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 7,
+    "title": "新歌1",
+    "artist": "豆包AI",
+    "duration": "1:30",
+    "filename": "doubao/07_new_song1.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 8,
+    "title": "新歌2",
+    "artist": "豆包AI",
+    "duration": "0:20",
+    "filename": "doubao/08_new_song2.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 9,
+    "title": "新歌3",
+    "artist": "豆包AI",
+    "duration": "1:00",
+    "filename": "doubao/09_new_song3.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 10,
+    "title": "新歌4",
+    "artist": "豆包AI",
+    "duration": "1:00",
+    "filename": "doubao/10_new_song4.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
+  },
+  {
+    "id": 11,
+    "title": "新歌5",
+    "artist": "豆包AI",
+    "duration": "1:00",
+    "filename": "doubao/11_new_song5.mp4",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0
   }
 ]

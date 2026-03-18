@@ -55,46 +55,46 @@
   },
   {
     "id": 7,
-    "title": "新歌1",
+    "title": "钓趣奇遇记",
     "artist": "豆包AI",
     "duration": "1:30",
-    "filename": "doubao/07_new_song1.mp4",
+    "filename": "doubao/07_diaoqu_qiyuji.mp4",
     "cover": "https://img.icons8.com/fluency/96/music.png",
     "plays": 0
   },
   {
     "id": 8,
-    "title": "新歌2",
+    "title": "熊声之韵",
     "artist": "豆包AI",
     "duration": "0:20",
-    "filename": "doubao/08_new_song2.mp4",
+    "filename": "doubao/08_xiongsheng_zhiyun.mp4",
     "cover": "https://img.icons8.com/fluency/96/music.png",
     "plays": 0
   },
   {
     "id": 9,
-    "title": "新歌3",
+    "title": "无需他人吟唱",
     "artist": "豆包AI",
     "duration": "1:00",
-    "filename": "doubao/09_new_song3.mp4",
+    "filename": "doubao/09_wuxu_taren_yinchang.mp4",
     "cover": "https://img.icons8.com/fluency/96/music.png",
     "plays": 0
   },
   {
     "id": 10,
-    "title": "新歌4",
+    "title": "熊吼破寂静",
     "artist": "豆包AI",
     "duration": "1:00",
-    "filename": "doubao/10_new_song4.mp4",
+    "filename": "doubao/10_xionghou_pojiing.mp4",
     "cover": "https://img.icons8.com/fluency/96/music.png",
     "plays": 0
   },
   {
     "id": 11,
-    "title": "新歌5",
+    "title": "熊吼霓虹之殇",
     "artist": "豆包AI",
     "duration": "1:00",
-    "filename": "doubao/11_new_song5.mp4",
+    "filename": "doubao/11_xionghou_nihong.mp4",
     "cover": "https://img.icons8.com/fluency/96/music.png",
     "plays": 0
   }

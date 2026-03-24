@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": 1774361050422,
+    "title": "测试视频转换",
+    "artist": "测试员",
+    "album": "测试专辑",
+    "duration": "0:05",
+    "filename": "uploads/1774361048380_3447b5fc.mp3",
+    "repoFilename": "1774361050422_8b5f.mp3",
+    "originalFormat": ".mp4",
+    "convertedFromVideo": true,
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0,
+    "score": 7,
+    "uploadTime": "2026-03-24T14:04:10.422Z",
+    "expireTime": "2026-03-25T14:04:10.422Z",
+    "syncedAt": "2026-03-24T14:04:10.468Z"
+  }
+]

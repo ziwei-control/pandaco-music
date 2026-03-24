@@ -185,5 +185,22 @@
     "uploadTime": "2026-03-24T14:57:56.127Z",
     "expireTime": "2026-03-25T14:57:56.127Z",
     "syncedAt": "2026-03-24T14:57:56.137Z"
+  },
+  {
+    "id": 1774364342086,
+    "title": "test_final.mp4",
+    "artist": "清风乐团",
+    "album": "用户上传",
+    "duration": "0:08",
+    "filename": "uploads/1774364341045_11257c9e.mp3",
+    "repoFilename": "1774364342086_8625.mp3",
+    "originalFormat": ".mp4",
+    "convertedFromVideo": true,
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0,
+    "score": 7,
+    "uploadTime": "2026-03-24T14:59:02.086Z",
+    "expireTime": "2026-03-25T14:59:02.086Z",
+    "syncedAt": "2026-03-24T14:59:02.093Z"
   }
 ]

@@ -474,5 +474,21 @@
     "uploadTime": "2026-03-24T16:22:48.320Z",
     "expireTime": "2026-03-25T16:22:48.320Z",
     "syncedAt": "2026-03-24T16:22:48.329Z"
+  },
+  {
+    "id": 1774369556438,
+    "title": "音频测试",
+    "artist": "未知艺术家",
+    "album": "用户上传",
+    "duration": "0:05",
+    "filename": "uploads/1774369556438_5baaca91.wav",
+    "repoFilename": "1774369556438_1dab.wav",
+    "originalFormat": ".wav",
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0,
+    "score": 6,
+    "uploadTime": "2026-03-24T16:25:56.438Z",
+    "expireTime": "2026-03-25T16:25:56.438Z",
+    "syncedAt": "2026-03-24T16:25:56.455Z"
   }
 ]

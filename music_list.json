@@ -355,5 +355,22 @@
     "uploadTime": "2026-03-24T15:54:02.522Z",
     "expireTime": "2026-03-25T15:54:02.522Z",
     "syncedAt": "2026-03-24T15:54:02.533Z"
+  },
+  {
+    "id": 1774368177046,
+    "title": "谜语",
+    "artist": "时光留声机",
+    "album": "原创音乐",
+    "duration": "2:56",
+    "filename": "uploads/1774368177045_238b4d33.mp3",
+    "repoFilename": "1774368177046_a544.mp3",
+    "originalFormat": ".mp3",
+    "convertedFromVideo": false,
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0,
+    "score": 6,
+    "uploadTime": "2026-03-24T16:02:57.046Z",
+    "expireTime": "2026-03-25T16:02:57.046Z",
+    "syncedAt": "2026-03-24T16:02:57.068Z"
   }
 ]

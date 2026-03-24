@@ -321,5 +321,22 @@
     "uploadTime": "2026-03-24T15:49:59.449Z",
     "expireTime": "2026-03-25T15:49:59.449Z",
     "syncedAt": "2026-03-24T15:49:59.458Z"
+  },
+  {
+    "id": 1774367410062,
+    "title": "晨曦微光",
+    "artist": "清风乐团",
+    "album": "用户上传",
+    "duration": "0:08",
+    "filename": "uploads/1774367410061_96e22c25.flac",
+    "repoFilename": "1774367410062_51ab.flac",
+    "originalFormat": ".flac",
+    "convertedFromVideo": false,
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0,
+    "score": 6,
+    "uploadTime": "2026-03-24T15:50:10.062Z",
+    "expireTime": "2026-03-25T15:50:10.062Z",
+    "syncedAt": "2026-03-24T15:50:10.072Z"
   }
 ]

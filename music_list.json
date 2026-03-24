@@ -253,5 +253,22 @@
     "uploadTime": "2026-03-24T15:18:46.236Z",
     "expireTime": "2026-03-25T15:18:46.236Z",
     "syncedAt": "2026-03-24T15:18:46.246Z"
+  },
+  {
+    "id": 1774366467702,
+    "title": "菲儿",
+    "artist": "时光留声机",
+    "album": "原创音乐",
+    "duration": "2:56",
+    "filename": "uploads/1774366467699_781c973f.mp3",
+    "repoFilename": "1774366467702_f0fa.mp3",
+    "originalFormat": ".mp3",
+    "convertedFromVideo": false,
+    "cover": "https://img.icons8.com/fluency/96/music.png",
+    "plays": 0,
+    "score": 6,
+    "uploadTime": "2026-03-24T15:34:27.702Z",
+    "expireTime": "2026-03-25T15:34:27.702Z",
+    "syncedAt": "2026-03-24T15:34:27.726Z"
   }
 ]

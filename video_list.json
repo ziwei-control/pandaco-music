@@ -9,5 +9,16 @@
     "uploader": "anonymous",
     "uploadTime": "2026-03-26T23:19:40.323Z",
     "syncedAt": "2026-03-26T23:19:40.332Z"
+  },
+  {
+    "id": 1774567190775,
+    "title": "测试上传视频",
+    "description": "功能测试",
+    "filename": "1774567190775_382c.mp4",
+    "duration": 60,
+    "resolution": "0x0",
+    "uploader": "anonymous",
+    "uploadTime": "2026-03-26T23:19:50.775Z",
+    "syncedAt": "2026-03-26T23:19:50.786Z"
   }
 ]

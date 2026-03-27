@@ -119,5 +119,16 @@
     "uploader": "anonymous",
     "uploadTime": "2026-03-27T00:38:11.459Z",
     "syncedAt": "2026-03-27T00:38:11.468Z"
+  },
+  {
+    "id": 1774571907295,
+    "title": "HTTPS 测试 2-2",
+    "description": "用户上传的精彩视频",
+    "filename": "1774571907295_ac77.mp4",
+    "duration": 120,
+    "resolution": "0x0",
+    "uploader": "anonymous",
+    "uploadTime": "2026-03-27T00:38:27.295Z",
+    "syncedAt": "2026-03-27T00:38:27.311Z"
   }
 ]
